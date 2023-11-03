@@ -2,7 +2,7 @@
 //normal func
 //arrow func
 
-function add(num1:number , num2: number){
+function addNumber(num1:number, num2: string){
     return num1 + num2
 }
 
