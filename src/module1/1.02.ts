@@ -17,4 +17,5 @@ const user : {
 
 user.mainName= 'rabbi'
 
+
 }
