@@ -7,7 +7,7 @@ const createArr = (param:string) :string[] => {
 const createArrWithGeneric = <T>(param: T) : T[] => {
     return [param]
 }
-const result1 = createArr('Bangladesh')
+const result1 = createArr('palestine')
 
 const resultGeneric = createArrWithGeneric<string>('bangladesh')
 
