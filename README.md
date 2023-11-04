@@ -1,1 +1,1 @@
-# tsc-practice
+Practising and Learning Typescript 
