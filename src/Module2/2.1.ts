@@ -20,10 +20,10 @@ const user : GenericArray<{name: string, age: number}> = [
     name: 'robol',
     age: 20
 },
-{
-    role: 'admin',
-    age: 20
-}
+// {
+//     role: 'admin',
+//     age: 20
+// }
 
 ]
 
@@ -36,7 +36,7 @@ type GenericTuple<x,y> = [x , y]
 
 const people: GenericTuple<string, string> = ['mr.x', "mr.y"]
 
-const UserWithID: GenericTuple<number, {name: string, email: string}> = [1,2,3,4 ,{name: 'x', email: 'a@dhdj.com'}]
+const UserWithID: GenericTuple<number, {name: string, email: string}> = [123,{name: 'x', email: 'a@dhdj.com'}]
 
 //
 }

@@ -4,7 +4,7 @@
     // Rest Operator
     //Destructuring
     
-  const bros: string[] = ['mirza','firoz']
+  const bros: string[] = ['mirza','Firoz']
   const bros1: string[] = ["tanmay", "rahat"]
 
 

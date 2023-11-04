@@ -14,7 +14,7 @@ var __assign = (this && this.__assign) || function () {
     //Spread Operator
     // Rest Operator
     //Destructuring
-    var bros = ['mirza', 'firoz'];
+    var bros = ['mirza', 'Firoz'];
     var bros1 = ["tanmay", "rahat"];
     bros.push.apply(bros, bros1);
     var mentors1 = {

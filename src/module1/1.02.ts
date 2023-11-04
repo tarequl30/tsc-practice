@@ -3,7 +3,7 @@
 
 
 const user : {
-    company: 'Programming Hero' //type == Litarel Types
+    company: 'Programming Hero' //type == Literal Types
     // readonly company: string  //readonly property it can't be write
     mainName: string;
     secondName?: string; //Optional 
@@ -12,7 +12,7 @@ const user : {
     company: 'Programming Hero',
     mainName : 'First Name',
     // secondName :'second Name',
-    surName: 'Surnama'
+    surName: 'Surname'
 }
 
 user.mainName= 'rabbi'
