@@ -5,7 +5,7 @@
         company: 'Programming Hero',
         mainName: 'First Name',
         // secondName :'second Name',
-        surName: 'Surname'
+        surName: 'Surnama'
     };
     user.mainName = 'rabbi';
 }
