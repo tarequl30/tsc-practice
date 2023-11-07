@@ -23,5 +23,6 @@ const dog = new Animal('German Shepard' , "dog", 'sound')
 const cat = new Animal('Persian', 'cat', 'Sound')
 
 cat.makeSound()
+dog.makeSound()
 //
 }
